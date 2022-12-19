@@ -8,8 +8,7 @@ mucho esfuerzo y dedicacion
 
 * Pepita
 * Juanita
-* Yo
+* Favio
 * Luis
 
-![Benjamin Bannekat]
-(https://octodex.github.com/images/bannekat.png)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
